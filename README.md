@@ -1,5 +1,5 @@
 # Entrega-1
-Hola, soy Carmen Merino Gordillo. Alumna de segundo año del Máster habilitante de Ingeniería Industrial. Esta es mi primera página web, la voy a utilizar para dejar mi CV, y un poco de introducción personal 
+Hola, soy Carmen Merino Gordillo. Alumna de segundo año del Máster habilitante de Ingeniería Industrial. Esta es mi primera página web, la voy a utilizar para dejar mi CV, y un poco de introducción personal. 
 Como he dicho ya, estoy cursando el último año del máster y por ahora, el último año de universidad, es decir cierro en mayo mi etapa universitaria. Soy de Sevilla, de un pueblo de la sierra norte que se llama Guillena, conocido más por una ruta de senderismo que se llama la Ruta del Agua. He vivido 7 años en Brasil (Rio de Janeiro) y nací en Perú (Lima).  
 
 Datos: 
