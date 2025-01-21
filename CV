@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        #main {
+            padding: 20px;
+            background: #fff;
+            margin-top: 30px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Mi CV</h1>
+        </div>
+    </header>
+    <div id="main" class="container">
+        <h2>Datos Personales</h2>
+        <p>Nombre: Carmen Merino Gordillo</p>
+        <p>Email: 202316019@comillas.edu</p>
+        <p>LinkedIn:Carmen Merino Gordillo </p>
+        <!-- Agrega más secciones según sea necesario -->
+        <h2> Educación</h2>
+        <p> Máster Habilitante de Ingeniería Industrial en ICAI (Madrid) - [2023-2025] </p>
+        <p> Grado en Ingeniería de Tencnologías Industriales en E.T.S.I (Sevilla) - [2018-2023] </p>
+        <p> Bachillerato y Secundaria en Colegio International San Francisco de Paula (Sevilla) - [2013-2018] </p>
+        <h2> Experiencia </h2>
+        <p> Prácticas en Desarrollo de Negocios en Atlantica Sustainable Infrastructe (Madrid) - [2025-] </p>
+        <p> Prácticas en Desarrollo de Mercado en Wellness TechnoGroup (Sevilla) - [2017-2018] </p>
+<h2> Experiencia </h2>
+
+    </div>
+    <footer>
+        <p>© 2025 Mi Nombre</p>
+    </footer>
+</body>
+</html>
